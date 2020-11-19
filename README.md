@@ -14,7 +14,7 @@
 
 ## 在信息素养实践课程上关于一些软件的学习（这是二级标题）
 
-[百度]（http://www.baidu.com]
+[百度]（http://www.baidu.com）
 
 ![百度图片](https://img01.sogoucdn.com/app/a/100520115/54474517ed76c1adc25ed47cd517acb6)
 
